@@ -1,0 +1,17 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stenia Felix <steniafelix@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "nunjucks": "^3.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
